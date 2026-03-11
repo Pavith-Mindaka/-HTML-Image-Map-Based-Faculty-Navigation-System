@@ -1,1 +1,1 @@
-# -HTML-Image-Map-Based-Faculty-Navigation-System
+# HTML-Image-Map-Based-Faculty-Navigation-System
